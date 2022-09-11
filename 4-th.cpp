@@ -23,11 +23,6 @@ void calculator (int n1, int n2) {
 	cout << "sum= " << n1 + n2 << endl;
 	cout << "razn= " << n1 - n2 << endl;
 	cout << "umn= " << n1 * n2 << endl;
-	cout << "del= " << n1 / n2 << endl;
-
-	
-
-	
-		
+	cout << "del= " << n1 / n2 << endl;	
 	
 }
